@@ -1,0 +1,7 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication1\obj\Debug\02.Binary to decimal.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Numeral systems\ConsoleApplication1\bin\Debug\02.BinaryToDecimal.exe.config

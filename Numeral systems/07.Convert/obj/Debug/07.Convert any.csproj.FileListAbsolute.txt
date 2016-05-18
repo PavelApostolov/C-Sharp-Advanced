@@ -1,0 +1,7 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication6\obj\Debug\07.Convert any.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Numeral systems\ConsoleApplication6\bin\Debug\07.ConvertToAny.exe.config

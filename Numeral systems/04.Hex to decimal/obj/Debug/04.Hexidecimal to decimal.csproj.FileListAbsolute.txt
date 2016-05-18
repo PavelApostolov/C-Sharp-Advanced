@@ -1,0 +1,7 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication3\obj\Debug\04.Hexidecimal to decimal.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Numeral systems\ConsoleApplication3\bin\Debug\04.HexToDecimal.exe.config

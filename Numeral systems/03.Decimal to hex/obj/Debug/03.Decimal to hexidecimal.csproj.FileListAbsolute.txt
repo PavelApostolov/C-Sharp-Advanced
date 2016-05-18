@@ -1,0 +1,6 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Numeral systems\ConsoleApplication2\bin\Debug\03.DecimalToHex.exe.config

@@ -1,0 +1,6 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Numeral systems\ConsoleApplication5\bin\Debug\06.BinaryToHex.exe.config

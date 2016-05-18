@@ -1,0 +1,7 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication7\obj\Debug\08.Binary short.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Numeral systems\ConsoleApplication7\bin\Debug\08.BinaryShort.exe.config

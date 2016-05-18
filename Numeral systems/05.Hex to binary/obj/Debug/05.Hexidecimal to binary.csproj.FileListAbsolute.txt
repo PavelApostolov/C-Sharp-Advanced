@@ -1,0 +1,6 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Numeral systems\ConsoleApplication4\bin\Debug\05.HexToBinary.exe.config

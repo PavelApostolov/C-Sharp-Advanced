@@ -1,0 +1,7 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\Numeral systems\bin\Debug\Numeral systems.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\Numeral systems\bin\Debug\Numeral systems.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\Numeral systems\bin\Debug\Numeral systems.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\Numeral systems\obj\Debug\01.Decimal to binary.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\Numeral systems\obj\Debug\Numeral systems.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Numeral systems\Numeral systems\obj\Debug\Numeral systems.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Numeral systems\Numeral systems\bin\Debug\01.DecimalToBinary.exe.config

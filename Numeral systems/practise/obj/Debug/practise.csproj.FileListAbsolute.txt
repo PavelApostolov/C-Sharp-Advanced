@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Numeral systems\practise\bin\Debug\practise.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Numeral systems\practise\bin\Debug\practise.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Numeral systems\practise\bin\Debug\practise.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Numeral systems\practise\obj\Debug\practise.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Numeral systems\practise\obj\Debug\practise.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Numeral systems\practise\obj\Debug\practise.pdb
