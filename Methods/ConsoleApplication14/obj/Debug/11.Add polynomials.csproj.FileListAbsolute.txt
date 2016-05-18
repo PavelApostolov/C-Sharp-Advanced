@@ -1,0 +1,6 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication14\bin\Debug\ConsoleApplication14.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication14\obj\Debug\11.Add polynomials.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb

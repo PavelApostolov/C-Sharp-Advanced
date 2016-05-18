@@ -1,0 +1,6 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication3\obj\Debug\04.Maximal sequence.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

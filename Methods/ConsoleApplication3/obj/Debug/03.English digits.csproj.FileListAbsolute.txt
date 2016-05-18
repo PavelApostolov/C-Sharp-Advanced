@@ -1,0 +1,6 @@
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication3\obj\Debug\03.English digits.csprojResolveAssemblyReference.cache

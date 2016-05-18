@@ -1,0 +1,6 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication7\obj\Debug\07.Selection sort2.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

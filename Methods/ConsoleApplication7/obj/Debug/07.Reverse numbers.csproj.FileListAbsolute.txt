@@ -1,0 +1,6 @@
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication7\obj\Debug\07.Reverse numbers.csprojResolveAssemblyReference.cache
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

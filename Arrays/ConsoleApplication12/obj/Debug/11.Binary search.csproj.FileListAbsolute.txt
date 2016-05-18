@@ -1,0 +1,6 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication12\obj\Debug\11.Binary search.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication12\obj\Debug\ConsoleApplication12.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication12\obj\Debug\ConsoleApplication12.pdb

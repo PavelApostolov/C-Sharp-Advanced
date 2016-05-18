@@ -1,0 +1,1 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Multidimensional arrays\Multidimensional arrays\bin\Debug\Multidimensional arrays.exe.config

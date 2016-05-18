@@ -1,0 +1,6 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Multidimensional arrays\Multidimensional arrays\bin\Debug\Multidimensional arrays.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Multidimensional arrays\Multidimensional arrays\bin\Debug\Multidimensional arrays.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Multidimensional arrays\Multidimensional arrays\bin\Debug\Multidimensional arrays.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Multidimensional arrays\Multidimensional arrays\obj\Debug\1.Fill the matrix - a.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2012\Projects\Multidimensional arrays\Multidimensional arrays\obj\Debug\Multidimensional arrays.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Multidimensional arrays\Multidimensional arrays\obj\Debug\Multidimensional arrays.pdb

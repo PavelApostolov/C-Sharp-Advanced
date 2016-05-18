@@ -1,0 +1,6 @@
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication6\obj\Debug\06.First larger than neighbours.csprojResolveAssemblyReference.cache
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb

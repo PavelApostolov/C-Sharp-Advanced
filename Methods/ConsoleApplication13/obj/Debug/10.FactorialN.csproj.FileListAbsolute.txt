@@ -1,0 +1,6 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication13\obj\Debug\10.FactorialN.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb

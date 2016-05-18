@@ -1,0 +1,6 @@
+c:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication1\obj\Debug\02.Compare Arrays.csprojResolveAssemblyReference.cache
+c:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

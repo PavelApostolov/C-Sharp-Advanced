@@ -1,0 +1,5 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication16\obj\Debug\ConsoleApplication16.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication16\obj\Debug\ConsoleApplication16.pdb

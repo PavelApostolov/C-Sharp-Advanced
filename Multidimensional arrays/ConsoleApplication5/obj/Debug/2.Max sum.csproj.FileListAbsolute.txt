@@ -1,0 +1,6 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Multidimensional arrays\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Multidimensional arrays\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Multidimensional arrays\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Multidimensional arrays\ConsoleApplication5\obj\Debug\2.Max sum.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\documents\visual studio 2012\Projects\Multidimensional arrays\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Multidimensional arrays\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

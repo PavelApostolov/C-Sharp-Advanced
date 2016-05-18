@@ -1,0 +1,6 @@
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+c:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication4\obj\Debug\04.Appearance count.csprojResolveAssemblyReference.cache

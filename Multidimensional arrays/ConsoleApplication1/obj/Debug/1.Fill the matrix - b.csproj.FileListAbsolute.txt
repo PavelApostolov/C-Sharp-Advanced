@@ -1,0 +1,6 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Multidimensional arrays\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Multidimensional arrays\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Multidimensional arrays\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Multidimensional arrays\ConsoleApplication1\obj\Debug\1.Fill the matrix - b.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2012\Projects\Multidimensional arrays\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Multidimensional arrays\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

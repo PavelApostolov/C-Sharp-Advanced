@@ -1,0 +1,5 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Multidimensional arrays\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Multidimensional arrays\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Multidimensional arrays\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Multidimensional arrays\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Multidimensional arrays\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

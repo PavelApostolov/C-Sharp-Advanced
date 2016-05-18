@@ -1,0 +1,6 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication2\obj\Debug\03.Compare Char Arrays.csprojResolveAssemblyReference.cache

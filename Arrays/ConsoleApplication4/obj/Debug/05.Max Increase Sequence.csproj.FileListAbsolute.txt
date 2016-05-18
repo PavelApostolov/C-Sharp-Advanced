@@ -1,0 +1,6 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication4\obj\Debug\05.Max Increase Sequence.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Arrays\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

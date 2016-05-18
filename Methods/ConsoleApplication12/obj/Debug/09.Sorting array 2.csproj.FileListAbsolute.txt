@@ -1,0 +1,5 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication12\obj\Debug\ConsoleApplication12.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Methods\ConsoleApplication12\obj\Debug\ConsoleApplication12.pdb
