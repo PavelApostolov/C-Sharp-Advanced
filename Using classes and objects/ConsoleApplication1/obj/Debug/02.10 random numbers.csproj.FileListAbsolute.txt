@@ -1,0 +1,5 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Using classes and objects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Using classes and objects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Using classes and objects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Using classes and objects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Using classes and objects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

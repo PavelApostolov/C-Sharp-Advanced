@@ -1,0 +1,5 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Using classes and objects\Using classes and objects\bin\Debug\Using classes and objects.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Using classes and objects\Using classes and objects\bin\Debug\Using classes and objects.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Using classes and objects\Using classes and objects\bin\Debug\Using classes and objects.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Using classes and objects\Using classes and objects\obj\Debug\Using classes and objects.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Using classes and objects\Using classes and objects\obj\Debug\Using classes and objects.pdb
